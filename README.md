@@ -8,3 +8,4 @@
     * %%은 Section을 의미한다. Section 별로 실행 가능
     * indexing: 데이터를 접근하는 3가지 방법에 배움 
         * row and column indexing
+    데이터는 일반적인 데이터와 (특별한 데이터가 있다){ASMR}
